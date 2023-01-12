@@ -1,29 +1,29 @@
 .container {
     display: flex;
     margin: auto;
-    height: 100vw;
+    height: 100vh;
     width: 100vw;
 }
 .square-1 {
-    border: .5px solid black;
+    border: .25px solid black;
     background-color: white;
     display: flex;
     margin: auto;
-    height: 71.428571vw;
+    height: 71.428571vh;
     width: 71.428571vw;
 }
 .square-2 {
     background-color: black;
     display: flex;
     margin: auto;
-    height: 42.857143vw;
+    height: 42.857143vh;
     width: 42.857143vw;
 }
 .square-3 {
     background-color: white;
     display: flex;
     margin: auto;
-    height: 14.285714vw;
+    height: 14.285714vh;
     width: 14.285714vw;
 }
 
@@ -31,29 +31,29 @@
 .container-2 {
     display: flex;
     margin: auto;
-    height: 100vw;
+    height: 100vh;
     width: 100vw;
 }
 .square-1-2 {
-    border: .5px solid black;
+    border: .25px solid black;
     background-color: white;
     display: flex;
     margin: auto;
-    height: 71.428571vw;
+    height: 71.428571vh;
     width: 71.428571vw;
 }
 .square-2-2 {
-    border: .5px solid black;
+    border: .25px solid black;
     background-color: white;
     display: flex;
     margin: auto;
-    height: 42.857143vw;
+    height: 42.857143vh;
     width: 42.857143vw;
 }
 .square-3-2 {
     background-color: black;
     display: flex;
     margin: auto;
-    height: 14.285714vw;
+    height: 14.285714vh;
     width: 14.285714vw;
 }
