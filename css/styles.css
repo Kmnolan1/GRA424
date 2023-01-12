@@ -5,7 +5,7 @@
     width: 100vw;
 }
 .square-1 {
-    border: .25px solid black;
+    border: .25px solid #444;
     background-color: white;
     display: flex;
     margin: auto;
@@ -35,7 +35,7 @@
     width: 100vw;
 }
 .square-1-2 {
-    border: .25px solid black;
+    border: .25px solid #444;
     background-color: white;
     display: flex;
     margin: auto;
@@ -43,7 +43,7 @@
     width: 71.428571vw;
 }
 .square-2-2 {
-    border: .5px solid #888;
+    border: .25px solid #999;
     background-color: white;
     display: flex;
     margin: auto;
@@ -74,6 +74,23 @@
     display: flex;
     margin: auto;
     height: 42.857143vh;
-    width: 1.8vw;
+    width: 1.9vw;
 }
 
+.lineleft {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    margin-left: 0;
+    height: 42.857143vh;
+    width: 1.9vw;
+}
+
+.lineright {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    margin-right: 0;
+    height: 42.857143vh;
+    width: 1.9vw;
+}
