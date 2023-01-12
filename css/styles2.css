@@ -5,20 +5,23 @@
     width: 100vw;
 }
 .square-1 {
-    background-color: black;
+    border-color: black;
+    border-width: 1rem;
+    background-color: white;
     display: flex;
     margin: auto;
     height: 71.428571vw;
     width: 71.428571vw;
 }
 .square-2 {
+    background-color: black;
     display: flex;
     margin: auto;
     height: 42.857143vw;
     width: 42.857143vw;
 }
 .square-3 {
-    background-color: black;
+    background-color: white;
     display: flex;
     margin: auto;
     height: 14.285714vw;
