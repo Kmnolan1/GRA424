@@ -43,7 +43,7 @@
     width: 71.428571vw;
 }
 .square-2-2 {
-    border: .25px solid black;
+    border: .5px solid #888;
     background-color: white;
     display: flex;
     margin: auto;
@@ -57,3 +57,23 @@
     height: 14.285714vh;
     width: 14.285714vw;
 }
+
+
+
+
+.square-2-line {
+    background-color: white;
+    display: flex;
+    margin: auto;
+    height: 42.857143vh;
+    width: 42.857143vw;
+}
+
+.line {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    height: 42.857143vh;
+    width: 1.8vw;
+}
+
