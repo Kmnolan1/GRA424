@@ -1,3 +1,26 @@
-body {
-    margin: 14.2857145%
+.container {
+    display: flex;
+    margin: auto;
+    height: 100vw;
+    width: 100vw;
+}
+.square-1 {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    height: 71.428571vw;
+    width: 71.428571vw;
+}
+.square-2 {
+    display: flex;
+    margin: auto;
+    height: 42.857143vw;
+    width: 42.857143vw;
+}
+.square-3 {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    height: 14.285714vw;
+    width: 14.285714vw;
 }
