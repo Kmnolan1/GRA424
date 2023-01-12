@@ -5,7 +5,7 @@
     width: 100vw;
 }
 .square-1 {
-    border: 1px black;
+    border: 1px solid black;
     background-color: white;
     display: flex;
     margin: auto;
