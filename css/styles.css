@@ -101,3 +101,32 @@
     height: 71.428571vh;
     width: 71.428571vw;
 }
+
+
+.color {
+    display: flex;
+    margin: auto;
+    width: 42.857143vw;
+    height: 42.857143vh;
+}
+
+.color:hover {
+    display: none;
+}
+
+.colorbox {
+    background-image: url(painting.jpeg) no-repeat;
+    display: flex;
+    margin: auto;
+    height: 42.857143vh;
+    width: 42.857143vw;
+}
+
+.colorbox:hover {
+    background-image: url(painting.jpeg) no-repeat;
+    display: flex;
+    margin: auto;
+    height: 42.857143vh;
+    width: 42.857143vw;
+}
+
