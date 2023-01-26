@@ -115,7 +115,7 @@
 }
 
 .colorbox {
-    background-image: url(painting.jpeg) no-repeat;
+    background-image: url(..img/painting.jpg) no-repeat;
     display: flex;
     margin: auto;
     height: 42.857143vh;
@@ -123,7 +123,7 @@
 }
 
 .colorbox:hover {
-    background-image: url(painting.jpeg) no-repeat;
+    background-image: url(..img/painting.jpg) no-repeat;
     display: flex;
     margin: auto;
     height: 42.857143vh;
